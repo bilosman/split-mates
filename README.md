@@ -1,2 +1,3 @@
-# split-mates
-SplitMates - Whatsapp Roommate Billing Bot
+# SplitMates - Whatsapp Roommate Billing Bot
+
+In Progress
