@@ -1,5 +1,5 @@
 # SplitMates - Whatsapp Roommate Billing Bot
 
-In Progress
+Coming Soon!
 
 Tools: Python, Flask, Twilio, ngrok
